@@ -1,4 +1,4 @@
 s: {
-    hello: string | *"world" | "apple",
-    count?: int,
+	hello:  string | *"world" | "apple"
+	count?: int
 }

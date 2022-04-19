@@ -1,13 +1,13 @@
 #A: {
-    num: number
+	num: number
 }
 
 #B: {
-    ans: string
+	ans: string
 }
 
-#val: { #A, #B }
+#val: {#A, #B}
 val: #val & {
-    num: 42,
-    ans: "life",
+	num: 42
+	ans: "life"
 }

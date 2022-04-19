@@ -1,7 +1,7 @@
 s: close ({
-    foo: "bar",
+	foo: "bar"
 })
 
 #d: {
-    foo: "bar",
+	foo: "bar"
 }

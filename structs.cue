@@ -1,11 +1,11 @@
 a: {
-    foo: "bar"
+	foo: "bar"
 }
 
 a: hello: "world"
 
 b: close({
-    left: "right"
+	left: "right"
 })
 
 b: up: "down"

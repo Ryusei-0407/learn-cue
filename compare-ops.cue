@@ -1,4 +1,4 @@
-positive: >0
+positive:  >0
 doubledig: >=10 & <=100 & int
 
 lowercase: >="a" & <="z"

@@ -3,7 +3,7 @@ a: *elems[0] | "A"
 d: *elems[3] | "D"
 
 S: {
-    hello: "world"
+	hello: "world"
 }
 
 s: *S.foo | "bar"
