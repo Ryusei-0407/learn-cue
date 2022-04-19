@@ -1,2 +1,0 @@
-fotmat:
-	cue fmt *
